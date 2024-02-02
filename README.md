@@ -7,6 +7,7 @@ the total cost
 - For example: [ Apple, Apple, Orange, Apple ] => £2.05
 - Make reasonable assumptions about the inputs to your solution; for example, many
 candidates take a list of strings as input
+
 ###Step 2: Simple offers
 The shop decides to introduce two new offers
 - buy one, get one free on Apples 
